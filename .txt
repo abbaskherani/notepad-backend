@@ -1,0 +1,14 @@
+initialise package.json
+install express 
+setting up parsers for forms
+
+parser express.json()
+express.urlencoded();
+
+setting ejs pages
+    install ejs from npm
+    setup ejs as a view engine
+
+setting up publis static files
+
+setting up dymanic routing and how to get data from frontend at backend route
